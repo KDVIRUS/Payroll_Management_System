@@ -6,7 +6,7 @@
 
 8. Create a database with name spms_db
 
-6. Import spms_db.sql file(given inside the zip package in SQL file folder)
+6. Import spms_db.sql file(given inside the db folder.)
 
 7.Run the script http://localhost/Payroll_Managemnt_System
 
